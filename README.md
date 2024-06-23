@@ -8,7 +8,5 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
 
-First type : npm create vite@latest -- --template react client
--2. cd client
--3. Instal Some Packages by Typing : npm install three @react-three/fiber @react-three/drei maath valtio react-color framer-motion
- npm install -D tailwindcss postcss autoprefixer
+-1. Install Some Packages by Typing : npm install three @react-three/fiber @react-three/drei maath valtio react-color framer-motion
+
