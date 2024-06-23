@@ -9,4 +9,5 @@ Currently, two official plugins are available:
 
 
 -1. Install Some Packages by Typing : npm install three @react-three/fiber @react-three/drei maath valtio react-color framer-motion
+-2. npm run dev
 
